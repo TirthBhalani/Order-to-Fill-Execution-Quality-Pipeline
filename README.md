@@ -13,7 +13,7 @@ Intraday retail trading desks generate high-frequency buy/sell signals that are 
 
 ## 4. Data Architecture & Source Overview
 
-![Source Map](file:///c:/Users/amitb/Desktop/Projects/FDE/Assignment-2/diagrams/source_map.png)
+![Source Map](./diagrams/source_map.png)
 
 | Source Name | System / Vendor | Retrieval Mode | Data Owner | Grain | Known Gaps & Limitations |
 |---|---|---|---|---|---|
@@ -25,9 +25,9 @@ Intraday retail trading desks generate high-frequency buy/sell signals that are 
 
 ## 5. Workflow & Event Model Diagram
 
-![Workflow Diagram](file:///c:/Users/amitb/Desktop/Projects/FDE/Assignment-2/diagrams/workflow_diagram.png)
+![Workflow Diagram](./diagrams/workflow_diagram.png)
 
-*Detailed Mermaid ER and Event Flow diagrams are available in [diagrams/workflow_diagram.md](file:///c:/Users/amitb/Desktop/Projects/FDE/Assignment-2/diagrams/workflow_diagram.md).*
+*Detailed Mermaid ER and Event Flow diagrams are available in [diagrams/workflow_diagram.md](./diagrams/workflow_diagram.md).*
 
 ## 6. Setup Instructions
 
