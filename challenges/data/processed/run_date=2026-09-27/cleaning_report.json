@@ -1,0 +1,17 @@
+{
+  "gate": "WARN",
+  "sources": {
+    "orders": {
+      "reconciled_order_ids": [
+        "O00120",
+        "O00723",
+        "O01302"
+      ],
+      "actions": [
+        {
+          "action": "reconcile_noncritical_traffic_conflict"
+        }
+      ]
+    }
+  }
+}
